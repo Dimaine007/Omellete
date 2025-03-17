@@ -16,6 +16,7 @@ img {
     margin: 0 auto;
     padding: 0 auto;
     align-content: center;
+    border-radius: 10px;
 }        
 
 
@@ -23,6 +24,7 @@ img {
 .Container{
     height: 1150px;
     width: 500px;
+    border-radius: 10px;
     background-color: #fff;
     margin: 0 auto;
     padding: 0 30px;
@@ -79,6 +81,7 @@ li{
 
 .first-baby-div{
     background-color: #f5f1f7;
+    border-radius: 10px;
     width: 500px;
     height: 120px;
     border: 1px solid #f5f1f7;
